@@ -1,0 +1,26 @@
+.osnowa{
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+.content1{
+   position: relative;
+   width: 20%;
+   border: 3px solid rgb(152, 243, 6); 
+}
+.content2{
+    position: relative;
+    width: 79%;
+    border: 2px solid rgb(152, 243, 6);
+
+
+}
+.img{
+    width: 20%;
+    height: 20%;
+}
+body{
+    background-color: slategrey;
+}
+table{border: blueviolet;
+}
